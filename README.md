@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 - 📝 I regulary write articles on [akhonirshad.blogspot.com](akhonirshad.blogspot.com)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Technology**
 
 - 📫 How to reach me **irshadahmed31@outlook.com**
 
