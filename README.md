@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Irshad Ahmed Akhonzada</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-- 📝 I regulary write articles on [akhonirshad.blogspot.com](akhonirshad.blogspot.com)
 
 - 💬 Ask me about **Technology**
 
@@ -17,3 +16,5 @@
 <a href="https://stackoverflow.com/irshad-ahmed-akhonzada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="irshad-ahmed-akhonzada" height="20" width="20" /></a>
 <a href="https://fb.com/akhonzadairshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhonzadairshad" height="20" width="20" /></a>
 </p>
+
+![Irshad's github stats](https://github-readme-stats.vercel.app/api?username=akhonzadaIrshad&show_icons=true)
